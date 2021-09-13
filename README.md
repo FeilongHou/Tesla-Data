@@ -3,7 +3,7 @@
  Simple visulization of number of salse Tesla made since 2015 till June 2021.
  
 
-<!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
     <title>Awesome-pyecharts</title>
